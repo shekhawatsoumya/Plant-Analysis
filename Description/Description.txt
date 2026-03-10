@@ -1,0 +1,18 @@
+Plants Analysis Dashboard: Executive Summary
+The Plant Report highlights a diverse inventory with a strong focus on Indoor and Medium-sized plants. While there is a broad range of plant types, the market is dominated by a few key brands, most notably UGADU.
+1. Pricing Analysis
+The "Original Price VS Special Price" bar chart reveals significant discounting strategies across top products:
+Deepest Discount: The Jade Plant shows the highest price point (444.18) with a substantial reduction to its special price (232.97).
+Consistent Value: Most featured plants, like the Areca Palm and Money Plants, show a special price that is approximately 10-20% lower than the original.
+2. Inventory Composition
+Plant Size: The inventory is heavily weighted toward Medium plants (73%), followed by Large (27%). Surprisingly, "Small" plants represent 0% of this specific view.
+Plant Location: There is a clear preference for Indoor plants (193 units), nearly double the amount of Outdoor-only plants (124 units). 123 units are categorized as suitable for "Both."
+Plant Type: This is the most diverse metric, with Shrubs (112) and Flowers (100) being the most common categories.
+3. Brand Performance
+The "Top 10 Brand Name" chart shows a highly concentrated market:
+Market Leader: UGADU is the dominant brand with 177 units, more than double its closest competitor, Alaistore (80 units).
+Long Tail: After the top three brands (UGADU, Alaistore, and Cloud-farming), there is a significant drop-off, with most other brands carrying fewer than 10 units.
+4. Key Observations & Recommendations
+Size Gap: There is an opportunity to introduce Small plants to diversify the catalog, especially for desk-bound office workers.
+Brand Reliance: The inventory is highly dependent on UGADU. Diversifying suppliers could mitigate risks associated with stockouts or price hikes from a single vendor.
+Price Strategy: The high discount on the Jade Plant suggests it may be a "loss leader" used to drive traffic or is currently being cleared from stock.
