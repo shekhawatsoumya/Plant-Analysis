@@ -102,3 +102,5 @@ The analysis dashboard (`Plant Analysis.png`) in the Result folder provides a vi
 
 ---
 
+## 📌 Conclusion
+This analysis provides insights into plant inventory dynamics, pricing strategies, and market opportunities. The findings suggest valuable opportunities for product diversification and supplier optimization to enhance business performance.
