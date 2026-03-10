@@ -102,14 +102,3 @@ The analysis dashboard (`Plant Analysis.png`) in the Result folder provides a vi
 
 ---
 
-## 📝 How to Use This Repository
-
-1. **View Raw Data**: Access `Raw Data/plant_url.xlsx` to see the original dataset
-2. **Review Cleaned Data**: Check `Clean Data/plant_url.xlsx` to see the transformation applied
-3. **View Analysis**: Open `Result/Plant Analysis.png` to see the dashboard visualization
-4. **Read Full Summary**: Read `Description/Description.txt` for detailed findings
-
----
-
-## 📌 Conclusion
-This analysis provides insights into plant inventory dynamics, pricing strategies, and market opportunities. The findings suggest valuable opportunities for product diversification and supplier optimization to enhance business performance.
